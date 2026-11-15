@@ -1,5 +1,9 @@
 # Francis Turbine Explorer
 
+![Francis Turbine Explorer](francis-turbine-explorer.gif)
+
+Live demo: https://cyrilremacle-byte.github.io/francis-turbine-explorer/
+
 An interactive, bilingual (EN / FR) exhibit that teaches how a Francis hydroelectric turbine-generator works.
 Three connected modes: Guided tour (six chapters and a quiz), Explore the machine, Control the power.
 
